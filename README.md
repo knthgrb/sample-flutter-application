@@ -1,6 +1,6 @@
 # flutter_application_2
 
-A new Flutter project.
+A sample Flutter project written by Filip Hracek.
 
 ## Getting Started
 
